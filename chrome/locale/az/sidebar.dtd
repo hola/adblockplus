@@ -20,7 +20,7 @@
 <!ENTITY detach.label "Ayır">
 <!ENTITY whitelisted.label "Ağ-list səhifəsi">
 <!ENTITY context.disablefilteronsite.label "Bu filtri ?1? - də deaktiv et">
-<!ENTITY detached.title "Adblock Plus: Blok oluna bilən bəndlər (xüsusiləşmiş)">
+<!ENTITY detached.title "Hola adblock: Blok oluna bilən bəndlər (xüsusiləşmiş)">
 <!ENTITY docDomain.firstParty "(istehsalçıya aid olan)">
 <!ENTITY tooltip.type.whitelisted "(ağ-listdə)">
 <!ENTITY tooltip.filter.label "İşlək filtr:">

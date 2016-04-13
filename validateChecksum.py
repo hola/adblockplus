@@ -1,24 +1,24 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# This file is part of Adblock Plus <https://adblockplus.org/>,
+# This file is part of Hola adblock <https://adblockplus.org/>,
 # Copyright (C) 2006-2016 Eyeo GmbH
 #
-# Adblock Plus is free software: you can redistribute it and/or modify
+# Hola adblock is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License version 3 as
 # published by the Free Software Foundation.
 #
-# Adblock Plus is distributed in the hope that it will be useful,
+# Hola adblock is distributed in the hope that it will be useful,
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
 # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 # GNU General Public License for more details.
 #
 # You should have received a copy of the GNU General Public License
-# along with Adblock Plus.  If not, see <http://www.gnu.org/licenses/>.
+# along with Hola adblock.  If not, see <http://www.gnu.org/licenses/>.
 
 #############################################################################
 # This is a reference script to validate the checksum in downloadable       #
-# subscription. This performs the same validation as Adblock Plus when it   #
+# subscription. This performs the same validation as Hola adblock when it   #
 # downloads the subscription.                                               #
 #                                                                           #
 # To validate a subscription file, run the script like this:                #
