@@ -1,33 +1,33 @@
 <!ENTITY notification.button.no "いいえ(&amp;N)">
-<!ENTITY sync.label "Hola adblock 設定を Sync で同期(&amp;C)">
+<!ENTITY sync.label "Hola AdBlock 設定を Sync で同期(&amp;C)">
 <!ENTITY whitelist.site.label "?1? で無効">
 <!ENTITY notification.closing.button.hide "この通知を閉じる(&amp;H)">
 <!ENTITY filters.label "フィルタ設定(&amp;F)">
 <!ENTITY disable.label "全ページで無効">
 <!ENTITY objecttab.title "ブロックする">
-<!ENTITY objecttab.tooltip "クリックしてオブジェクトをブロック (Hola adblock)">
-<!ENTITY menuitem.label "Hola adblock 設定(&amp;B)">
+<!ENTITY objecttab.tooltip "クリックしてオブジェクトをブロック (Hola AdBlock)">
+<!ENTITY menuitem.label "Hola AdBlock 設定(&amp;B)">
 <!ENTITY objecttabs.label "Flash と Java でタブを表示(&amp;T)">
 <!ENTITY sendReport.label "このページでの不具合を報告(&amp;R)">
 <!ENTITY whitelist.page.label "このページのみで無効">
-<!ENTITY context.image.label "Hola adblock: 画像をブロック">
+<!ENTITY context.image.label "Hola AdBlock: 画像をブロック">
 <!ENTITY notification.button.yes "はい(&amp;Y)">
 <!ENTITY opensidebar.label "ブロック可能項目一覧を開く(&amp;B)">
 <!ENTITY notification.button.close "閉じる(&amp;C)">
 <!ENTITY shownotifications.label "有用な通知を表示(&amp;N)">
-<!ENTITY contribute.label "Hola adblock に貢献する">
-<!ENTITY toolbarbutton.label "Hola adblock">
-<!ENTITY context.frame.label "Hola adblock: フレームをブロック">
+<!ENTITY contribute.label "Hola AdBlock に貢献する">
+<!ENTITY toolbarbutton.label "Hola AdBlock">
+<!ENTITY context.frame.label "Hola AdBlock: フレームをブロック">
 <!ENTITY blocked.tooltip "このページでブロック中の項目:">
 <!ENTITY notification.closing.button.optout "通知の表示を停止(&amp;S)">
 <!ENTITY counthits.label "フィルタのヒット数を数える(&amp;H)">
 <!ENTITY showinstatusbar.label "ステータスバーに表示(&amp;S)">
 <!ENTITY sidebar.title "このページのブロック可能項目一覧">
 <!ENTITY options.label "オプション(&amp;O)">
-<!ENTITY context.object.label "Hola adblock: オブジェクトをブロック">
-<!ENTITY context.removeWhitelist.label "Hola adblock: このページで有効に戻す">
+<!ENTITY context.object.label "Hola AdBlock: オブジェクトをブロック">
+<!ENTITY context.removeWhitelist.label "Hola AdBlock: このページで有効に戻す">
 <!ENTITY filters.tooltip "有効なフィルタ:">
 <!ENTITY closesidebar.label "ブロック可能項目一覧を閉じる(&amp;B)">
 <!ENTITY showintoolbar.label "ツールバーに表示(&amp;B)">
 <!ENTITY status.tooltip "ステータス:">
-<!ENTITY context.media.label "Hola adblock: オーディオ／ビデオをブロック">
+<!ENTITY context.media.label "Hola AdBlock: オーディオ／ビデオをブロック">

@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "Əməliyyatlar">
 <!ENTITY filter.selectAll.label "Hamısını seç">
 <!ENTITY backupButton.label "&amp;Yadda saxla və Bərpa et">
-<!ENTITY restore.minVersion.warning "Diqqət: fayl Hola adblock' un yeni versiyası ilə yaradıldı. Bu fayldan bərpa etməzdən əvvəl Hola adblock' un son versiyasına yeniləyin.">
-<!ENTITY restore.error "Fayldakı məlumat emal edilə bilmədi, bəlkə bu Hola adblock yaddaş qutusu faylı deyil?">
+<!ENTITY restore.minVersion.warning "Diqqət: fayl Hola AdBlock' un yeni versiyası ilə yaradıldı. Bu fayldan bərpa etməzdən əvvəl Hola AdBlock' un son versiyasına yeniləyin.">
+<!ENTITY restore.error "Fayldakı məlumat emal edilə bilmədi, bəlkə bu Hola AdBlock yaddaş qutusu faylı deyil?">
 <!ENTITY sort.ascending.label "Çeşidləmə sırası &amp;A &gt; Z olsun">
 <!ENTITY sort.label "&amp;Çeşidlə">
 <!ENTITY subscription.source.label "Filtr listi">
@@ -29,11 +29,11 @@
 <!ENTITY subscription.lastDownload.unknown "Məlumat yoxdur">
 <!ENTITY addSubscriptionCancel.label "Ləğv et">
 <!ENTITY subscription.enabled.label "Aktiləşdirildi">
-<!ENTITY noSubscriptions.text "Siz hələ ki heç bir filtr abunəliyi əlavə etməyibsiniz. Hola adblock filtrsiz heç nəyi əngəlləməyəcək, lütfən əlavə etmək üçün &quot;Filtr abunəliyi əlavə et&quot; dən istifadə edin.">
+<!ENTITY noSubscriptions.text "Siz hələ ki heç bir filtr abunəliyi əlavə etməyibsiniz. Hola AdBlock filtrsiz heç nəyi əngəlləməyəcək, lütfən əlavə etmək üçün &quot;Filtr abunəliyi əlavə et&quot; dən istifadə edin.">
 <!ENTITY subscription.update.label "Filtrləri yenilə">
-<!ENTITY dialog.title "Hola adblock filtr seçimləri">
+<!ENTITY dialog.title "Hola AdBlock filtr seçimləri">
 <!ENTITY addFilter.label "Filtr ə&amp;lavə et">
-<!ENTITY subscription.minVersion.warning "Bu filtr abunəliyi Hola adblock' un yeni versiyasını tələb edir, ən son Hola adblock versiyası ilə yeniləməlisiniz.">
+<!ENTITY subscription.minVersion.warning "Bu filtr abunəliyi Hola AdBlock' un yeni versiyasını tələb edir, ən son Hola AdBlock versiyası ilə yeniləməlisiniz.">
 <!ENTITY subscription.lastDownload.invalidURL "Baş tutmadı ünvan düzgün deyil">
 <!ENTITY backup.error "Filtrləri fayla yazarkən xəta baş verdi. Lütfən faylın yazılma-mühafizəsi olmadığını və başqa proqram tərəfindən istifadə edilmədiyinə əmin olun.">
 <!ENTITY filter.moveUp.label "Yuxarı qalx">

@@ -17,9 +17,9 @@
 <!ENTITY viewMenu.label "Харах">
 <!ENTITY noSubscriptions.text "Танд одоогоор ямар нэгэн захиалагт хамгаалаль алга байна. ">
 <!ENTITY subscription.update.label "хамгаалалтын шинэчлэлт">
-<!ENTITY dialog.title "Hola adblock шүүлтүүр Тохиргоо">
+<!ENTITY dialog.title "Hola AdBlock шүүлтүүр Тохиргоо">
 <!ENTITY addFilter.label "Шүүлт нэмэх">
-<!ENTITY subscription.minVersion.warning "Энд хамгаалалтын  шинэ   Hola adblock хувилбарыг шинэчлэх хэрэгтэй. Та хамгийн сүүлийн үеийн Hola adblock хувилбар руу шинэчлэнэ үү">
+<!ENTITY subscription.minVersion.warning "Энд хамгаалалтын  шинэ   Hola AdBlock хувилбарыг шинэчлэх хэрэгтэй. Та хамгийн сүүлийн үеийн Hola AdBlock хувилбар руу шинэчлэнэ үү">
 <!ENTITY subscription.lastDownload.invalidURL "Бүтэлгүйтэв, буруу хаяг">
 <!ENTITY addGroup.label "Хамгаалалт нэмэх бас групп">
 <!ENTITY subscription.showHideFilters.label "Харагдуулах/хамгаалалтыг нуух">

@@ -20,7 +20,7 @@
 <!ENTITY detach.label "Koppla från">
 <!ENTITY whitelisted.label "Undantagen sida">
 <!ENTITY context.disablefilteronsite.label "Inaktivera detta filter på ?1?">
-<!ENTITY detached.title "Hola adblock: Blockeringsbara objekt (frånkopplad)">
+<!ENTITY detached.title "Hola AdBlock: Blockeringsbara objekt (frånkopplad)">
 <!ENTITY docDomain.firstParty "(första part)">
 <!ENTITY tooltip.type.whitelisted "(undantagen)">
 <!ENTITY tooltip.filter.label "Filter som används:">

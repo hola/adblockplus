@@ -5,29 +5,29 @@
 <!ENTITY filters.label "Gestione dei &amp;filtri">
 <!ENTITY disable.label "Disattiva per tutte le pagine">
 <!ENTITY objecttab.title "Blocca">
-<!ENTITY objecttab.tooltip "Fare clic qui per bloccare l'oggetto con Hola adblock">
-<!ENTITY menuitem.label "Gestione dei filtri di &amp;Hola adblock">
+<!ENTITY objecttab.tooltip "Fare clic qui per bloccare l'oggetto con Hola AdBlock">
+<!ENTITY menuitem.label "Gestione dei filtri di &amp;Hola AdBlock">
 <!ENTITY objecttabs.label "Mos&amp;tra linguetta 'Blocca…' per elementi Flash e Java">
 <!ENTITY sendReport.label "&amp;Segnala problemi nella pagina attuale">
 <!ENTITY whitelist.page.label "Disattiva solo per la pagina attuale">
-<!ENTITY context.image.label "Blocca immagine con Hola adblock">
+<!ENTITY context.image.label "Blocca immagine con Hola AdBlock">
 <!ENTITY notification.button.yes "Sì">
 <!ENTITY opensidebar.label "Apri l'elenco degli elementi &amp;bloccabili">
 <!ENTITY notification.button.close "Chiudi">
 <!ENTITY shownotifications.label "Visualizza notifiche utili">
-<!ENTITY contribute.label "Contribuisci ad Hola adblock">
-<!ENTITY toolbarbutton.label "Hola adblock">
-<!ENTITY context.frame.label "Blocca riquadro con Hola adblock">
+<!ENTITY contribute.label "Contribuisci ad Hola AdBlock">
+<!ENTITY toolbarbutton.label "Hola AdBlock">
+<!ENTITY context.frame.label "Blocca riquadro con Hola AdBlock">
 <!ENTITY blocked.tooltip "Elementi attualmente bloccati">
 <!ENTITY notification.closing.button.optout "Interrompi la visualizzazione delle notifiche">
 <!ENTITY counthits.label "&amp;Effettua le statistiche di accesso">
 <!ENTITY showinstatusbar.label "Vi&amp;sualizza nella barra di stato">
-<!ENTITY sidebar.title "Elenco degli elementi bloccabili con Hola adblock">
-<!ENTITY options.label "&amp;Opzioni di Hola adblock">
-<!ENTITY context.object.label "Blocca oggetto con Hola adblock">
-<!ENTITY context.removeWhitelist.label "Riattiva Hola adblock nella pagina attuale">
-<!ENTITY filters.tooltip "Filtri di Hola adblock maggiormente attivi">
+<!ENTITY sidebar.title "Elenco degli elementi bloccabili con Hola AdBlock">
+<!ENTITY options.label "&amp;Opzioni di Hola AdBlock">
+<!ENTITY context.object.label "Blocca oggetto con Hola AdBlock">
+<!ENTITY context.removeWhitelist.label "Riattiva Hola AdBlock nella pagina attuale">
+<!ENTITY filters.tooltip "Filtri di Hola AdBlock maggiormente attivi">
 <!ENTITY closesidebar.label "Chiudi l'elenco degli elementi &amp;bloccabili">
 <!ENTITY showintoolbar.label "Visualizza nella &amp;barra degli strumenti">
-<!ENTITY status.tooltip "Stato di Hola adblock">
-<!ENTITY context.media.label "Blocca video/audio con Hola adblock">
+<!ENTITY status.tooltip "Stato di Hola AdBlock">
+<!ENTITY context.media.label "Blocca video/audio con Hola AdBlock">

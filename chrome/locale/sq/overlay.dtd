@@ -1,31 +1,31 @@
 <!ENTITY notification.button.no "&amp;Jo">
-<!ENTITY sync.label "Sync Hola adblock settings">
+<!ENTITY sync.label "Sync Hola AdBlock settings">
 <!ENTITY whitelist.site.label "Çaktivizo në ?1?">
 <!ENTITY filters.label "&amp;filtër preferencat">
 <!ENTITY disable.label "Caktivizo Kudo">
 <!ENTITY objecttab.title "Blloko">
-<!ENTITY objecttab.tooltip "Kliko ketu per te bllokuar kete objekt me Hola adblock">
+<!ENTITY objecttab.tooltip "Kliko ketu per te bllokuar kete objekt me Hola AdBlock">
 <!ENTITY menuitem.label "Parapëlqimet e Ad&amp;block Plus">
 <!ENTITY objecttabs.label "Trego &amp;butonin ne Flash dhe Java">
 <!ENTITY sendReport.label "&amp;Raporti çështje në këtë faqe">
 <!ENTITY whitelist.page.label "Çaktivizo vetëm në këtë faqe">
-<!ENTITY context.image.label "Hola adblock: Figurat e bllokuara">
+<!ENTITY context.image.label "Hola AdBlock: Figurat e bllokuara">
 <!ENTITY notification.button.yes "&amp;po">
 <!ENTITY opensidebar.label "Hap elementet &amp;bllokuese">
 <!ENTITY notification.button.close "&amp;Mbyll">
 <!ENTITY shownotifications.label "Trego njoftime të dobishme">
-<!ENTITY contribute.label "Kontribut te Hola adblock">
-<!ENTITY toolbarbutton.label "Hola adblock">
-<!ENTITY context.frame.label "Hola adblock: Pjesët e bllokuara">
+<!ENTITY contribute.label "Kontribut te Hola AdBlock">
+<!ENTITY toolbarbutton.label "Hola AdBlock">
+<!ENTITY context.frame.label "Hola AdBlock: Pjesët e bllokuara">
 <!ENTITY blocked.tooltip "Jane bllokuar te dhena ne kete faqe:">
 <!ENTITY counthits.label "Llogarit filtrat&amp;hits">
 <!ENTITY showinstatusbar.label "&amp;Trego ne status bar">
 <!ENTITY sidebar.title "Artikuj Blockable në faqen aktuale">
 <!ENTITY options.label "Mundësitë (&amp;O)">
-<!ENTITY context.object.label "Hola adblock: Objektet e bllokuara">
-<!ENTITY context.removeWhitelist.label "Hola adblock: Rilejo në këtë faqe">
+<!ENTITY context.object.label "Hola AdBlock: Objektet e bllokuara">
+<!ENTITY context.removeWhitelist.label "Hola AdBlock: Rilejo në këtë faqe">
 <!ENTITY filters.tooltip "Filtruesit më aktivë:">
 <!ENTITY closesidebar.label "M&amp;byll elementet bllokuese">
 <!ENTITY showintoolbar.label "Trego ne tool&amp;bar">
 <!ENTITY status.tooltip "Gjendja:">
-<!ENTITY context.media.label "Hola adblock:Blloko audi/video">
+<!ENTITY context.media.label "Hola AdBlock:Blloko audi/video">

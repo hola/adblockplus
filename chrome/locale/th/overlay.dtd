@@ -1,12 +1,12 @@
 <!ENTITY notification.button.no "ไ&amp;ม่ใช่">
-<!ENTITY sync.label "เชื่อ&amp;มข้อมูลการตั้งค่า Hola adblock">
+<!ENTITY sync.label "เชื่อ&amp;มข้อมูลการตั้งค่า Hola AdBlock">
 <!ENTITY whitelist.site.label "ปิดการใช้งาน ?1?">
 <!ENTITY notification.closing.button.hide "ปิดการแจ้งเตือนนี้">
 <!ENTITY filters.label "ตั้งค่าตัวกร&amp;อง">
 <!ENTITY disable.label "ปิดการใช้งานทุกที่">
 <!ENTITY objecttab.title "บล็อก">
-<!ENTITY objecttab.tooltip "คลิกที่นี่เพื่อบล็อกวัตถุนี้ด้วย Hola adblock">
-<!ENTITY menuitem.label "&amp;ปรับแต่ง Hola adblock">
+<!ENTITY objecttab.tooltip "คลิกที่นี่เพื่อบล็อกวัตถุนี้ด้วย Hola AdBlock">
+<!ENTITY menuitem.label "&amp;ปรับแต่ง Hola AdBlock">
 <!ENTITY objecttabs.label "แสดงแท็&amp;บบนแฟลชและจาวา">
 <!ENTITY sendReport.label "&amp;รายงานปัญหาที่พบในหน้านี้">
 <!ENTITY whitelist.page.label "ปิดการใช้งานเฉพาะหน้านี้">
@@ -15,8 +15,8 @@
 <!ENTITY opensidebar.label "เปิดราย&amp;การที่บล็อกได้">
 <!ENTITY notification.button.close "&amp;ปิด">
 <!ENTITY shownotifications.label "แสดงการแจ้งเตือนที่เป็นประโยชน์">
-<!ENTITY contribute.label "เข้ามีส่วนร่วมกับ Hola adblock">
-<!ENTITY toolbarbutton.label "Hola adblock">
+<!ENTITY contribute.label "เข้ามีส่วนร่วมกับ Hola AdBlock">
+<!ENTITY toolbarbutton.label "Hola AdBlock">
 <!ENTITY context.frame.label "Adblock เฟรม">
 <!ENTITY blocked.tooltip "สิ่งที่บล็อกในหน้านี้:">
 <!ENTITY notification.closing.button.optout "หยุดแสดงการแจ้งเตือน">
@@ -25,9 +25,9 @@
 <!ENTITY sidebar.title "รายการที่บล็อกได้ในหน้าล่าสุด">
 <!ENTITY options.label "ตั&amp;วเลือก">
 <!ENTITY context.object.label "Adblock วัตถุ">
-<!ENTITY context.removeWhitelist.label "Hola adblock: เปิดใช้งานอีกครั้งในหน้านี้">
+<!ENTITY context.removeWhitelist.label "Hola AdBlock: เปิดใช้งานอีกครั้งในหน้านี้">
 <!ENTITY filters.tooltip "ตัวกรองที่ใช้งานมากที่สุด:">
 <!ENTITY closesidebar.label "ปิดราย&amp;การที่บล็อกได้">
 <!ENTITY showintoolbar.label "แสดงในแถบเ&amp;ครื่องมือ">
 <!ENTITY status.tooltip "สถานะ:">
-<!ENTITY context.media.label "Hola adblock: บล็อกเสียง/วีดิทัศน์">
+<!ENTITY context.media.label "Hola AdBlock: บล็อกเสียง/วีดิทัศน์">

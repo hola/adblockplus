@@ -5,26 +5,26 @@
 <!ENTITY filters.label "&amp;Filterinnstillinger">
 <!ENTITY disable.label "Deaktiver overalt">
 <!ENTITY objecttab.title "Blokker">
-<!ENTITY objecttab.tooltip "Klikk her for å blokkere dette elementet med Hola adblock">
-<!ENTITY menuitem.label "Hola adblock-innstillinger">
+<!ENTITY objecttab.tooltip "Klikk her for å blokkere dette elementet med Hola AdBlock">
+<!ENTITY menuitem.label "Hola AdBlock-innstillinger">
 <!ENTITY objecttabs.label "Vis faner på Flash og Java">
 <!ENTITY sendReport.label "&amp;Rapporter problem på denne siden">
 <!ENTITY whitelist.page.label "Deaktiver kun på denne siden">
-<!ENTITY context.image.label "Hola adblock: Blokker bilde">
+<!ENTITY context.image.label "Hola AdBlock: Blokker bilde">
 <!ENTITY notification.button.yes "&amp;Ja">
 <!ENTITY opensidebar.label "Åpne &amp;blokkerbare elementer">
 <!ENTITY notification.button.close "&amp;Lukk">
 <!ENTITY shownotifications.label "Vis nyttige varsler">
-<!ENTITY contribute.label "Bidra til Hola adblock">
-<!ENTITY toolbarbutton.label "Hola adblock">
-<!ENTITY context.frame.label "Hola adblock: Blokker ramme">
+<!ENTITY contribute.label "Bidra til Hola AdBlock">
+<!ENTITY toolbarbutton.label "Hola AdBlock">
+<!ENTITY context.frame.label "Hola AdBlock: Blokker ramme">
 <!ENTITY blocked.tooltip "Blokkerte elementer på denne siden:">
 <!ENTITY notification.closing.button.optout "&amp;Slutt å vise varsler">
 <!ENTITY counthits.label "Tell filtertreff (&amp;h)">
 <!ENTITY showinstatusbar.label "Vis på statuslinjen">
 <!ENTITY sidebar.title "Blokkerbare elementer på nåværende side">
 <!ENTITY options.label "Alternativer (&amp;O)">
-<!ENTITY context.object.label "Hola adblock: Blokker objekt">
+<!ENTITY context.object.label "Hola AdBlock: Blokker objekt">
 <!ENTITY context.removeWhitelist.label "Reaktiver på denne siden">
 <!ENTITY filters.tooltip "Mest aktive filtre:">
 <!ENTITY closesidebar.label "Lukk &amp;blokkerbare elementer">

@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "Akcije">
 <!ENTITY filter.selectAll.label "Wšo wubrać">
 <!ENTITY backupButton.label "&amp;Zawěsćić a wobnowić">
-<!ENTITY restore.minVersion.warning "Warnowanje: Dataja je so přez nowšu wersiju Hola adblock wutworiła. Wy měł na najnowšu wersiju Hola adblock aktualizować, prjedy hač tutu dataju wobnowiće.">
-<!ENTITY restore.error "Daty dataje njedadźa so předźěłać, je móžno, zo wona zawěsćenska dataja Hola adblock njeje?">
+<!ENTITY restore.minVersion.warning "Warnowanje: Dataja je so přez nowšu wersiju Hola AdBlock wutworiła. Wy měł na najnowšu wersiju Hola AdBlock aktualizować, prjedy hač tutu dataju wobnowiće.">
+<!ENTITY restore.error "Daty dataje njedadźa so předźěłać, je móžno, zo wona zawěsćenska dataja Hola AdBlock njeje?">
 <!ENTITY sort.ascending.label "Porj&amp;ad A &gt; Z">
 <!ENTITY sort.label "&amp;Sortěrować po">
 <!ENTITY subscription.source.label "Filtrowa lisćina">
@@ -29,11 +29,11 @@
 <!ENTITY subscription.lastDownload.unknown "Ničo k dispoziciji">
 <!ENTITY addSubscriptionCancel.label "Přetorhnyć">
 <!ENTITY subscription.enabled.label "Zmóžnjeny">
-<!ENTITY noSubscriptions.text "Njejsće hišće žane filtrowe abonementy přidał. Hola adblock njebudźe bjez filtrow ničo blokować, prošu wužijće &quot;Filtrowy abonement přidać&quot;, zo byšće filter přidał.">
+<!ENTITY noSubscriptions.text "Njejsće hišće žane filtrowe abonementy přidał. Hola AdBlock njebudźe bjez filtrow ničo blokować, prošu wužijće &quot;Filtrowy abonement přidać&quot;, zo byšće filter přidał.">
 <!ENTITY subscription.update.label "Filtry aktualizować">
-<!ENTITY dialog.title "Hola adblock - filtrowe nastajenja">
+<!ENTITY dialog.title "Hola AdBlock - filtrowe nastajenja">
 <!ENTITY addFilter.label "Filter při&amp;dać">
-<!ENTITY subscription.minVersion.warning "Tutón filtrowy abonement wužaduje sej nowšu wersiju Hola adblock, wy měł na najnowšu wersiju Hola adblock aktualizować.">
+<!ENTITY subscription.minVersion.warning "Tutón filtrowy abonement wužaduje sej nowšu wersiju Hola AdBlock, wy měł na najnowšu wersiju Hola AdBlock aktualizować.">
 <!ENTITY subscription.lastDownload.invalidURL "Njeporadźiło, žana płaćiwa adresa">
 <!ENTITY backup.error "Při pisanju filtrow do dataje je zmylk wustupił. Zawěsćće, zo dataja njeje přećiwo pisanju škitana abo so přez druhi program njewužiwa.">
 <!ENTITY filter.moveUp.label "Horje">

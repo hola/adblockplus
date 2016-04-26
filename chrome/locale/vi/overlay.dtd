@@ -5,29 +5,29 @@
 <!ENTITY filters.label "&amp;Tùy chỉnh bộ lọc">
 <!ENTITY disable.label "Vô hiệu hóa ở mọi nơi">
 <!ENTITY objecttab.title "Chặn">
-<!ENTITY objecttab.tooltip "Nhấn vào đây để chặn đối tượng này với Hola adblock">
+<!ENTITY objecttab.tooltip "Nhấn vào đây để chặn đối tượng này với Hola AdBlock">
 <!ENTITY menuitem.label "Tùy chọn Adblock &amp;Plus">
 <!ENTITY objecttabs.label "Hiện thẻ trên Flash và Java">
 <!ENTITY sendReport.label "&amp;Báo cáo vấn đề trên trang này">
 <!ENTITY whitelist.page.label "Chỉ vô hiệu hóa trên trang này">
-<!ENTITY context.image.label "Hola adblock: Chặn Ảnh">
+<!ENTITY context.image.label "Hola AdBlock: Chặn Ảnh">
 <!ENTITY notification.button.yes "&amp;Có">
 <!ENTITY opensidebar.label "&amp;Mở các mục có thể chặn được">
 <!ENTITY notification.button.close "Đó&amp;ng">
 <!ENTITY shownotifications.label "Hiện thông báo hữu ích">
-<!ENTITY contribute.label "Đóng góp cho Hola adblock">
-<!ENTITY toolbarbutton.label "Hola adblock">
-<!ENTITY context.frame.label "Hola adblock: Chặn Khung">
+<!ENTITY contribute.label "Đóng góp cho Hola AdBlock">
+<!ENTITY toolbarbutton.label "Hola AdBlock">
+<!ENTITY context.frame.label "Hola AdBlock: Chặn Khung">
 <!ENTITY blocked.tooltip "Các mục bị chặn trong trang này:">
 <!ENTITY notification.closing.button.optout "Dừng hiện thông báo">
 <!ENTITY counthits.label "Đếm lượt &amp;bấm bộ lọc">
 <!ENTITY showinstatusbar.label "Hiện t&amp;rong thanh trạng thái">
 <!ENTITY sidebar.title "Các mục bị chặn trên trang hiện tại">
 <!ENTITY options.label "Tù&amp;y chọn">
-<!ENTITY context.object.label "Hola adblock: Chặn Đối Tượng">
-<!ENTITY context.removeWhitelist.label "Hola adblock: Kích Hoạt Lại trên Trang Này">
+<!ENTITY context.object.label "Hola AdBlock: Chặn Đối Tượng">
+<!ENTITY context.removeWhitelist.label "Hola AdBlock: Kích Hoạt Lại trên Trang Này">
 <!ENTITY filters.tooltip "Các bộ lọc có hiệu lực nhất:">
 <!ENTITY closesidebar.label "Đóng các &amp;mục có thể chặn được">
 <!ENTITY showintoolbar.label "Hiện trong thanh &amp;công cụ">
 <!ENTITY status.tooltip "Trạng thái:">
-<!ENTITY context.media.label "Hola adblock: Chặn nhạc/phim">
+<!ENTITY context.media.label "Hola AdBlock: Chặn nhạc/phim">

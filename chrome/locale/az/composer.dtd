@@ -13,19 +13,19 @@
 <!ENTITY custom.pattern.label "&amp;İstəyə uyğun:">
 <!ENTITY unselectAllTypes.label "Heç birini seçmə">
 <!ENTITY type.whitelist.label "İ&amp;stisna qayda">
-<!ENTITY regexp.warning "Sizin daxil etdiyiniz şablon Hola adblock tərəfindən müntəzəm ifadə kimi başa düşüləcək və effektiv emal oluna bilməyəcək, bu sizin axtarış sürətinizi azalda bilər. Əgər niyyətiniz müntəzəm ifadə istifadəsi deyildirsə, şablonun sonuna ulduz (*) əlavə edin.">
-<!ENTITY dialog.title "Hola adblock filtr qaydası əlavə et">
+<!ENTITY regexp.warning "Sizin daxil etdiyiniz şablon Hola AdBlock tərəfindən müntəzəm ifadə kimi başa düşüləcək və effektiv emal oluna bilməyəcək, bu sizin axtarış sürətinizi azalda bilər. Əgər niyyətiniz müntəzəm ifadə istifadəsi deyildirsə, şablonun sonuna ulduz (*) əlavə edin.">
+<!ENTITY dialog.title "Hola AdBlock filtr qaydası əlavə et">
 <!ENTITY basic.label "Sadə görüntü">
 <!ENTITY type.filter.label "&amp;Bloklayıcı filtr">
 <!ENTITY types.label "Qəbildən olanlara tətbiq et:">
-<!ENTITY shortpattern.warning "Daxil etdiyiniz şablon optimallaşdırmaq üçün çox qısadır və sizin axtarış sürətinizi azalda bilər. Təklif edilir ki, bu filtrə daha uzun şablon daxil etməklə Hola adblock' un filtri daha effektiv emal etməyinə şərait yaradasınız.">
+<!ENTITY shortpattern.warning "Daxil etdiyiniz şablon optimallaşdırmaq üçün çox qısadır və sizin axtarış sürətinizi azalda bilər. Təklif edilir ki, bu filtrə daha uzun şablon daxil etməklə Hola AdBlock' un filtri daha effektiv emal etməyinə şərait yaradasınız.">
 <!ENTITY collapse.yes.label "Bəli">
 <!ENTITY anchors.label "Ancaq şablonu qəbul et:">
 <!ENTITY collapse.default.yes.label "Olduğu kimi istifadə et (bəli)">
 <!ENTITY domainRestriction.help "Bu seçimdən sədd xətti (|) istifadə edərək bir və ya daha artıq domen daxil etmək üçün istifadə edə bilərsiniz. Filtr yalnız seçilmiş domen(lər)ə tətbiq olunacaq. Domendən öncə tilde(~) işarəsi filtrin bu domenə tətbiq edilməyəcəyini göstərir.">
 <!ENTITY accept.label "Filtr əlavə et">
 <!ENTITY options.label "Seçimlər">
-<!ENTITY disabled.warning "Hola adblock hal-hazırda deaktiv vəziyyətdədir. Buna baxmayaraq siz filtr əlavə edə bilərsiniz, ancaq filtrlər [link]Hola adblock[/link] aktiv edilənə qədər təsirsiz qalacaqlar.">
+<!ENTITY disabled.warning "Hola AdBlock hal-hazırda deaktiv vəziyyətdədir. Buna baxmayaraq siz filtr əlavə edə bilərsiniz, ancaq filtrlər [link]Hola AdBlock[/link] aktiv edilənə qədər təsirsiz qalacaqlar.">
 <!ENTITY anchor.start.flexible.label "domen adının əv&amp;vəlinə">
 <!ENTITY collapse.no.label "Xeyr">
 <!ENTITY selectAllTypes.label "Hamısını seç">

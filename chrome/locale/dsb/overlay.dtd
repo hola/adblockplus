@@ -1,33 +1,33 @@
 <!ENTITY notification.button.no "&amp;Ně">
-<!ENTITY sync.label "Nastajenja za syn&amp;chronizěrowanje Hola adblock">
+<!ENTITY sync.label "Nastajenja za syn&amp;chronizěrowanje Hola AdBlock">
 <!ENTITY whitelist.site.label "Na ?1? znjemóžniś">
 <!ENTITY notification.closing.button.hide "Toś tu po&amp;wěźeńku zacyniś">
 <!ENTITY filters.label "&amp;Filtrowe nastajenja">
 <!ENTITY disable.label "Wšuźi znjemóžniś">
 <!ENTITY objecttab.title "Blokěrowaś">
-<!ENTITY objecttab.tooltip "Klikniśo how, aby toś ten objekt z Hola adblock blokěrował">
-<!ENTITY menuitem.label "Hola adblock - &amp;Nastajenja">
+<!ENTITY objecttab.tooltip "Klikniśo how, aby toś ten objekt z Hola AdBlock blokěrował">
+<!ENTITY menuitem.label "Hola AdBlock - &amp;Nastajenja">
 <!ENTITY objecttabs.label "&amp;Rejtarki wó Flash a Java pokazaś">
 <!ENTITY sendReport.label "&amp;Problem na toś tom boku k wěsći daś">
 <!ENTITY whitelist.page.label "Jano na toś tom boku znjemóžniś">
-<!ENTITY context.image.label "Hola adblock: Wobraz blokěrowaś">
+<!ENTITY context.image.label "Hola AdBlock: Wobraz blokěrowaś">
 <!ENTITY notification.button.yes "&amp;Jo">
 <!ENTITY opensidebar.label "B&amp;lokěrujobne zapiski wócyniś">
 <!ENTITY notification.button.close "&amp;Zacyniś">
 <!ENTITY shownotifications.label "Wužytne p&amp;owěźeńki pokazaś">
-<!ENTITY contribute.label "K Hola adblock pśinosowaś">
-<!ENTITY toolbarbutton.label "Hola adblock">
-<!ENTITY context.frame.label "Hola adblock: Wobłuk blokěrowaś">
+<!ENTITY contribute.label "K Hola AdBlock pśinosowaś">
+<!ENTITY toolbarbutton.label "Hola AdBlock">
+<!ENTITY context.frame.label "Hola AdBlock: Wobłuk blokěrowaś">
 <!ENTITY blocked.tooltip "Blokěrowane zapiski na toś tom boku:">
 <!ENTITY notification.closing.button.optout "Powěźeńki wěcej &amp;njepokazaś">
 <!ENTITY counthits.label "Fi&amp;ltrowe trjefarje licyś">
 <!ENTITY showinstatusbar.label "W &amp;statusowej lejstwje pokazaś">
 <!ENTITY sidebar.title "Blokěrujobne zapiski na aktualnem boku">
 <!ENTITY options.label "&amp;Opcije">
-<!ENTITY context.object.label "Hola adblock: Objekt blokěrowaś">
-<!ENTITY context.removeWhitelist.label "Hola adblock: Na toś tom boku zasej zmóžniś">
+<!ENTITY context.object.label "Hola AdBlock: Objekt blokěrowaś">
+<!ENTITY context.removeWhitelist.label "Hola AdBlock: Na toś tom boku zasej zmóžniś">
 <!ENTITY filters.tooltip "Nejaktiwnjejše filtry:">
 <!ENTITY closesidebar.label "B&amp;lokěrujobne zapiski zacyniś">
 <!ENTITY showintoolbar.label "W symbolowej rě&amp;dce pokazaś">
 <!ENTITY status.tooltip "Status:">
-<!ENTITY context.media.label "Hola adblock: Awdio/Wideo blokěrowaś">
+<!ENTITY context.media.label "Hola AdBlock: Awdio/Wideo blokěrowaś">

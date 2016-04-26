@@ -1,6 +1,6 @@
 <!ENTITY accept.label "ਨਾਵਾਨ ਫਿਲਟਰ">
-<!ENTITY disabled.warning "Hola adblock  ਇਸ ਸਮੇਂ ਚਾਲੂ ਨਹੀਂ ਹੈ | ਤੁਸੀਂ ਹਾਲੇ ਵੀ ਨਵੇਂ ਫਿਲਟਰ ਪਾ ਸਕਦੇ ਹੋ ਪਰ ਓਹ ਉਦੋਂ ਤਕ ਨਹੀਂ ਚਲਨਗੇ ਜਦ ਤਦ ਤੁਸੀਂ ਫੇਰ [link]Hola adblock ਚਾਲੂ ਨਹੀਂ ਕਰਦੇ[/link] |">
+<!ENTITY disabled.warning "Hola AdBlock  ਇਸ ਸਮੇਂ ਚਾਲੂ ਨਹੀਂ ਹੈ | ਤੁਸੀਂ ਹਾਲੇ ਵੀ ਨਵੇਂ ਫਿਲਟਰ ਪਾ ਸਕਦੇ ਹੋ ਪਰ ਓਹ ਉਦੋਂ ਤਕ ਨਹੀਂ ਚਲਨਗੇ ਜਦ ਤਦ ਤੁਸੀਂ ਫੇਰ [link]Hola AdBlock ਚਾਲੂ ਨਹੀਂ ਕਰਦੇ[/link] |">
 <!ENTITY advanced.label "ਅਡਵਾਂਸਡ ਵਿਯੂ">
-<!ENTITY dialog.title "Hola adblock ਵਿਚ ਨਵਾਂ ਫਿਲਟਰ ਰੂਲ ਪਾਓ">
+<!ENTITY dialog.title "Hola AdBlock ਵਿਚ ਨਵਾਂ ਫਿਲਟਰ ਰੂਲ ਪਾਓ">
 <!ENTITY basic.label "ਬੇਸਿਕ ਵਿਯੂ">
 <!ENTITY filter.label "ਨਵਾਂ &amp;ਫਿਲਟਰ">

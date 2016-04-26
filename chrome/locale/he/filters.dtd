@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "פעולות">
 <!ENTITY filter.selectAll.label "בחירת הכל">
 <!ENTITY backupButton.label "&amp;גיבוי ושחזור">
-<!ENTITY restore.minVersion.warning "אזהרה: הקובץ נוצר על-ידי גרסה חדשה יותר של Hola adblock. כדי לשדרג לגרסה האחרונה של Hola adblock לפני שחזור מקובץ זה.">
-<!ENTITY restore.error "לא ניתן לעבד המידע בקובץ. אולי זה לא קובץ גיבוי של Hola adblock?">
+<!ENTITY restore.minVersion.warning "אזהרה: הקובץ נוצר על-ידי גרסה חדשה יותר של Hola AdBlock. כדי לשדרג לגרסה האחרונה של Hola AdBlock לפני שחזור מקובץ זה.">
+<!ENTITY restore.error "לא ניתן לעבד המידע בקובץ. אולי זה לא קובץ גיבוי של Hola AdBlock?">
 <!ENTITY sort.ascending.label "&amp;מיון מ- א &gt; עד ת">
 <!ENTITY sort.label "&amp;מיון לפי">
 <!ENTITY subscription.source.label "רשימת מסננים">
@@ -29,11 +29,11 @@
 <!ENTITY subscription.lastDownload.unknown "לא זמין">
 <!ENTITY addSubscriptionCancel.label "ביטול">
 <!ENTITY subscription.enabled.label "מאפשר">
-<!ENTITY noSubscriptions.text "עדיין לא הוספת הרשמות למסננים. Hola adblock לא יחסום דבר ללא מסננים, אנא השתמשו ב-&quot;הוספת הרשמה למסננים&quot; להוספת מסננים.">
+<!ENTITY noSubscriptions.text "עדיין לא הוספת הרשמות למסננים. Hola AdBlock לא יחסום דבר ללא מסננים, אנא השתמשו ב-&quot;הוספת הרשמה למסננים&quot; להוספת מסננים.">
 <!ENTITY subscription.update.label "עדכון מסננים">
-<!ENTITY dialog.title "העדפות סינון Hola adblock">
+<!ENTITY dialog.title "העדפות סינון Hola AdBlock">
 <!ENTITY addFilter.label "&amp;הוספת מסנן">
-<!ENTITY subscription.minVersion.warning "הרשמת מסננים זאת דורשת גרסה חדשה יותר של Hola adblock, צריך לשדרג לגרסה האחרונה של Hola adblock.">
+<!ENTITY subscription.minVersion.warning "הרשמת מסננים זאת דורשת גרסה חדשה יותר של Hola AdBlock, צריך לשדרג לגרסה האחרונה של Hola AdBlock.">
 <!ENTITY subscription.lastDownload.invalidURL "נכשל, הכתובת שגויה">
 <!ENTITY backup.error "אירעה שגיאה ברשימת המסננים לקובץ. יש לוודא כי הקובץ לא מוגן לכתיבה או בשימוש על-ידי יישום אחר.">
 <!ENTITY filter.moveUp.label "הזזה מעלה">

@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "Agoj">
 <!ENTITY filter.selectAll.label "Elekti ĉion">
 <!ENTITY backupButton.label "Se&amp;kurkopii kaj restaŭri">
-<!ENTITY restore.minVersion.warning "Averto: la dosiero estas kreita per pli nova versio de Hola adblock. Vi ĝisdatigu al la plej nova versio de Hola adblock antaŭ ol vi restaŭri ion el ĉi tiu dosiero.">
-<!ENTITY restore.error "La dosieraj datumoj ne povis traktitaj, ĉu tio eble ne estas sekurkopia dosiero de Hola adblock?">
+<!ENTITY restore.minVersion.warning "Averto: la dosiero estas kreita per pli nova versio de Hola AdBlock. Vi ĝisdatigu al la plej nova versio de Hola AdBlock antaŭ ol vi restaŭri ion el ĉi tiu dosiero.">
+<!ENTITY restore.error "La dosieraj datumoj ne povis traktitaj, ĉu tio eble ne estas sekurkopia dosiero de Hola AdBlock?">
 <!ENTITY sort.ascending.label "Ordigo &amp;A &gt; Z">
 <!ENTITY sort.label "&amp;Ordigi laŭ">
 <!ENTITY subscription.source.label "Filtrila listo">
@@ -29,11 +29,11 @@
 <!ENTITY subscription.lastDownload.unknown "Neniu">
 <!ENTITY addSubscriptionCancel.label "Nuligi">
 <!ENTITY subscription.enabled.label "Ebligita">
-<!ENTITY noSubscriptions.text "Vi ankoraŭ ne aldonis filtrilabonojn. Hola adblock blokos enion sen filtriloj, bonvolu uzu &quot;Aldoni filtrilabonon&quot; por aldoni abonon.">
+<!ENTITY noSubscriptions.text "Vi ankoraŭ ne aldonis filtrilabonojn. Hola AdBlock blokos enion sen filtriloj, bonvolu uzu &quot;Aldoni filtrilabonon&quot; por aldoni abonon.">
 <!ENTITY subscription.update.label "Ĝisdatigi filtrilojn">
-<!ENTITY dialog.title "Filtrilaj agordoj de Hola adblock">
+<!ENTITY dialog.title "Filtrilaj agordoj de Hola AdBlock">
 <!ENTITY addFilter.label "Al&amp;doni filtrilon">
-<!ENTITY subscription.minVersion.warning "Ĉi tiu filtrilabono bezonas pli novan version de Hola adblock, vi ĝisdatigu al la plej nova versio de Hola adblock.">
+<!ENTITY subscription.minVersion.warning "Ĉi tiu filtrilabono bezonas pli novan version de Hola AdBlock, vi ĝisdatigu al la plej nova versio de Hola AdBlock.">
 <!ENTITY subscription.lastDownload.invalidURL "Malsukcesis, tio ne estas valida adreso">
 <!ENTITY backup.error "Okazis eraro dum skribado de filtriloj en dosieron. Kontrolu, ke la dosiero ne estas kontraŭskribe protektita aŭ uzate per alia aplikaĵo.">
 <!ENTITY filter.moveUp.label "Supren">

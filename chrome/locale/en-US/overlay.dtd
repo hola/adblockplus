@@ -3,13 +3,13 @@
 <!ENTITY filters.tooltip        "Most active filters:">
 
 <!ENTITY menuitem.label         "Ad&amp;block Plus Preferences">
-<!ENTITY toolbarbutton.label    "Hola adblock">
+<!ENTITY toolbarbutton.label    "Hola AdBlock">
 
-<!ENTITY context.image.label    "Hola adblock: Block image">
-<!ENTITY context.object.label   "Hola adblock: Block object">
-<!ENTITY context.frame.label    "Hola adblock: Block frame">
-<!ENTITY context.media.label    "Hola adblock: Block audio/video">
-<!ENTITY context.removeWhitelist.label  "Hola adblock: Re-enable on this page">
+<!ENTITY context.image.label    "Hola AdBlock: Block image">
+<!ENTITY context.object.label   "Hola AdBlock: Block object">
+<!ENTITY context.frame.label    "Hola AdBlock: Block frame">
+<!ENTITY context.media.label    "Hola AdBlock: Block audio/video">
+<!ENTITY context.removeWhitelist.label  "Hola AdBlock: Re-enable on this page">
 
 <!ENTITY sidebar.title          "Blockable items on current page">
 
@@ -24,16 +24,16 @@
 <!ENTITY whitelist.page.label   "Disable on this page only">
 <!ENTITY disable.label          "Disable everywhere">
 <!ENTITY options.label          "&amp;Options">
-<!ENTITY contribute.label       "Contribute to Hola adblock">
+<!ENTITY contribute.label       "Contribute to Hola AdBlock">
 
 <!ENTITY showintoolbar.label        "Show in tool&amp;bar">
 <!ENTITY showinstatusbar.label      "&amp;Show in status bar">
 <!ENTITY objecttabs.label           "Show &amp;tabs on Flash and Java">
 <!ENTITY counthits.label            "Count filter &amp;hits">
-<!ENTITY sync.label                 "Syn&amp;c Hola adblock settings">
+<!ENTITY sync.label                 "Syn&amp;c Hola AdBlock settings">
 <!ENTITY shownotifications.label    "Show useful &amp;notifications">
 <!ENTITY objecttab.title        "Block">
-<!ENTITY objecttab.tooltip      "Click here to block this object with Hola adblock">
+<!ENTITY objecttab.tooltip      "Click here to block this object with Hola AdBlock">
 
 <!ENTITY notification.button.yes       "&amp;Yes">
 <!ENTITY notification.button.no        "&amp;No">

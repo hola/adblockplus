@@ -1,22 +1,22 @@
 /*
- * This file is part of Hola adblock <https://adblockplus.org/>,
+ * This file is part of Hola AdBlock <https://adblockplus.org/>,
  * Copyright (C) 2006-2016 Eyeo GmbH
  *
- * Hola adblock is free software: you can redistribute it and/or modify
+ * Hola AdBlock is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License version 3 as
  * published by the Free Software Foundation.
  *
- * Hola adblock is distributed in the hope that it will be useful,
+ * Hola AdBlock is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  *
  * You should have received a copy of the GNU General Public License
- * along with Hola adblock.  If not, see <http://www.gnu.org/licenses/>.
+ * along with Hola AdBlock.  If not, see <http://www.gnu.org/licenses/>.
  */
 
 /**
- * @fileOverview Public Hola adblock API.
+ * @fileOverview Public Hola AdBlock API.
  */
 
 var EXPORTED_SYMBOLS = ["AdblockPlus"];
@@ -43,7 +43,7 @@ let {Subscription, SpecialSubscription, RegularSubscription, DownloadableSubscri
 const externalPrefix = "~external~";
 
 /**
- * Class implementing public Hola adblock API
+ * Class implementing public Hola AdBlock API
  * @class
  */
 var AdblockPlus =
@@ -155,7 +155,7 @@ var AdblockPlus =
   },
 
   /**
-   * Returns installed Hola adblock version
+   * Returns installed Hola AdBlock version
    */
   getInstalledVersion: function() /**String*/
   {
@@ -163,7 +163,7 @@ var AdblockPlus =
   },
 
   /**
-   * Returns source code revision this Hola adblock build was created from (if available)
+   * Returns source code revision this Hola AdBlock build was created from (if available)
    */
   getInstalledBuild: function() /**String*/
   {

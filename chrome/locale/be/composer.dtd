@@ -13,20 +13,20 @@
 <!ENTITY custom.pattern.label "&amp;Уласныя:">
 <!ENTITY unselectAllTypes.label "Зняць усе">
 <!ENTITY type.whitelist.label "Вы&amp;ключэнні">
-<!ENTITY regexp.warning "Прапанаваны шаблон будзе ўспрымацца як рэгулярны выраз каторы Hola adblock не зможа апрацаваць эфектыўна. Гэта можа замарудзіць прагляд старонак.
+<!ENTITY regexp.warning "Прапанаваны шаблон будзе ўспрымацца як рэгулярны выраз каторы Hola AdBlock не зможа апрацаваць эфектыўна. Гэта можа замарудзіць прагляд старонак.
 Калі вы не збіраліся ўжываць рэгулярны выраз, то дадайце зорачку (*) ў канцы шаблона.">
-<!ENTITY dialog.title "Дадаць правіла ў фільтр Hola adblock">
+<!ENTITY dialog.title "Дадаць правіла ў фільтр Hola AdBlock">
 <!ENTITY basic.label "Звычайны выгляд">
 <!ENTITY type.filter.label "&amp;Блакуючы фільтр">
 <!ENTITY types.label "Ужыць для тыпаў:">
-<!ENTITY shortpattern.warning "Прапанаваны шаблон занадта кароткі для аптымізацыі. Ен можа замарудзіць прагляд старонак. Каб Hola adblock апрацоўваў фільтры эфектыўней, рэкамендуем карыстацца даўжэйшымі шаблонамі.">
+<!ENTITY shortpattern.warning "Прапанаваны шаблон занадта кароткі для аптымізацыі. Ен можа замарудзіць прагляд старонак. Каб Hola AdBlock апрацоўваў фільтры эфектыўней, рэкамендуем карыстацца даўжэйшымі шаблонамі.">
 <!ENTITY collapse.yes.label "Так">
 <!ENTITY anchors.label "Прымаць толькі шаблон:">
 <!ENTITY collapse.default.yes.label "Па змаўчанні (так)">
 <!ENTITY domainRestriction.help "Каб ужыць фільтр толькі для выбраных даменаў, раздзяляйце іх адмысловым знакам (|).  Тыльда (~) перад назвай дамена паказвае, што для наступнага дамена фільтр ужываецца не павінен.">
 <!ENTITY accept.label "Дадаць фільтр">
 <!ENTITY options.label "Налады">
-<!ENTITY disabled.warning "Hola adblock адключаны. Вы можаце дадаваць фільтры, але каб яны дзейнічалі трэба [link]ўключыць Hola adblock[/link].">
+<!ENTITY disabled.warning "Hola AdBlock адключаны. Вы можаце дадаваць фільтры, але каб яны дзейнічалі трэба [link]ўключыць Hola AdBlock[/link].">
 <!ENTITY anchor.start.flexible.label "у пачатку на&amp;звы дамена">
 <!ENTITY collapse.no.label "Не">
 <!ENTITY selectAllTypes.label "Вылучыць усе">
